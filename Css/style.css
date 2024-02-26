@@ -56,7 +56,7 @@ body{
     text-decoration: none;
 }
 .headr{
-    background: url(photo/header.jpg);
+    background: url(../photo/header.jpg);
     background-size: cover;
     border-end-end-radius:15px ;
     border-end-start-radius: 15px;
@@ -144,7 +144,7 @@ span{
     margin: 25px auto;
 }
 .parent{
-    background: url(photo/bg.jpg);
+    background: url(../photo/bg.jpg);
     background-size: cover;
     height: 110vh;
     width: 100%;
@@ -320,19 +320,19 @@ span{
 .b1:hover{
     color: #040701;
     transform: scale(1.1 , 1.2);
-    background: url(photo/bg.jpg);
+    background: url(../photo/bg.jpg);
     transition: 0.1s;
  }
  .b2:hover{
     color: #040701;
     transform: scale(1.1 , 1.2);
-    background: url(photo/bg.jpg);
+    background: url(../photo/bg.jpg);
     transition: 0.1s;
  }
  .b3:hover{
     color:#040701;
     transform: scale(1.1 , 1.2);    
-    background: url(photo/bg.jpg);
+    background: url(../photo/bg.jpg);
     transition: 0.1s;
  }
 button{
@@ -556,7 +556,7 @@ width: 100%;
     color: crimson;
 }
 .section-under{
-background: url(photo/ext.png);
+background: url(../photo/ext.png);
 background-attachment: fixed;
 background-size: cover;
 width: 100%;
@@ -683,7 +683,7 @@ transition: 0.2s;
     width: 150px;
     left: 54.7%;
     top: 42.4%;
-    background: url(photo/sy.jpg);
+    background: url(../photo/sy.jpg);
     background-size: cover;
     transition: 0.2s;
 }
@@ -698,7 +698,7 @@ transition: 0.2s;
     width: 150px;
     top: 47%;
     left: 57.5%;
-    background: url(photo/uae.jpg);
+    background: url(../photo/uae.jpg);
     background-size: cover;
     transition: 0.2s;
     z-index: 1;
@@ -714,7 +714,7 @@ transition: 0.2s;
     width: 150px;
     top: 35.5%;
     left: 45.5%;
-    background: url(photo/lo.jpg);
+    background: url(../photo/lo.jpg);
     background-size: cover;
     transition: 0.2s;
     z-index: 1;
@@ -730,7 +730,7 @@ transition: 0.2s;
     width: 150px;
     top: 23%;
     left: 76.5%;
-    background: url(photo/ru.jpg);
+    background: url(../photo/ru.jpg);
     background-size: cover;
     transition: 0.2s;
 }
@@ -745,11 +745,11 @@ transition: 0.2s;
     width: 150px;
     top: 48.2%;
     left: 56%;
-    background: url(photo/sudi.jpg);
+    background: url(../photo/sudi.jpg);
     background-size: cover;
     transition: 0.2s;
 }.section-under2{
-    background: url(photo/ext.png);
+    background: url(../photo/ext.png);
     background-attachment: fixed;
     background-size: cover;
     width: 100%;
